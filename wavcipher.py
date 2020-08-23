@@ -1,4 +1,4 @@
-data = "NIGGA"
+data = ""
 
 from Crypto.Cipher import AES
 from Crypto.Cipher import Salsa20
